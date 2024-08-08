@@ -12,7 +12,7 @@ body {
     overflow-x: hidden;
 }
 footer{width:100vw; height: 130px; background: black; position: sticky;}
-.footer-container{position: relative; width: 100vw; height: 130px; position}
+.footer-container{position: relative; width: 100vw; height: 130px;}
 .footer-content1{position: absolute; top: 50px; left: 10px; display: flex; flex-direction: column; width: 30%; height: 50px;}
 .footer-content2{position: absolute; top: 50px; left: 300px; display: flex; flex-direction: column; width: 30%; height: 50px;}
 .footer-content3{position: absolute; top: 50px; right:10px; display: flex; flex-direction: column; width: 10%; height: 50px;}
